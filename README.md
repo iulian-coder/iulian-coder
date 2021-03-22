@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iulian-coder
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Java Spring boot, React, Angular, NodeJs
-- 💞️ I’m looking to collaborate on meaningful projects
+- 👯 I’m looking to collaborate on local projects and remote anywere
 
 <!---
 iulian-coder/iulian-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

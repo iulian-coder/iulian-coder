@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iulian-coder
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Java Spring boot, React, Angular, NodeJs
+- 🌱 I’m currently working with Angular, NodeJs, Java Spring boot, React
 - 👯 I’m looking to collaborate on local projects and remote anywere
 
 <!---
